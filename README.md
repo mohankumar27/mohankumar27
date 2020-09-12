@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java
-- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | React.js
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Selenium
 - 🖥 &nbsp; Photoshop | Photography
