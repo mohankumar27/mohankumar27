@@ -4,9 +4,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing Full Stack projects
-- 💼 &nbsp; Sotware Engineer with 2+ years of experience
+- 💼 &nbsp; Sotware Engineer with 3+ years of experience
 - 🌱 &nbsp; Learning more about FrontEnd technologies
-- ✍️ &nbsp; Budding ReactJs and NodeJs programmer
+- ✍️ &nbsp; Budding Angular, ReactJs and NodeJs programmer
 
 <h3>🛠 Tech Stack</h3>
 
