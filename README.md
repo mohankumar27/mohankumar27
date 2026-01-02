@@ -4,17 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing Full Stack projects
-- 💼 &nbsp; Software Engineer with 6+ years of experience
-- 🌱 &nbsp; Learning more about FrontEnd technologies
-- ✍️ &nbsp; Budding Angular, ReactJs and NodeJs programmer
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Java | JavaScript
-- 🌐 &nbsp; HTML | CSS | Node.js | React.js | Angular
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Selenium
-- 🖥 &nbsp; Photoshop | Photography
+- 💼 &nbsp; Software Engineer with 7+ years of experience in Java and Backend development
 
 <br/>
 
